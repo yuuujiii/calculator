@@ -1,0 +1,23 @@
+.calculator{
+  width:150px;
+}
+
+.input-counter{
+  border: none;
+  width:100%;
+  height:20px;
+  text-align: right;
+}
+
+button{
+  width:100%;
+}
+
+tr{
+  width:100%;
+}
+
+td{
+  width:25%;
+}
+
