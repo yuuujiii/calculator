@@ -1,10 +1,14 @@
+*{
+  margin:0;
+  padding:0;
+}
 .calculator{
   width:150px;
 }
 
 .input-counter{
   border: none;
-  width:100%;
+  width:150px;
   height:20px;
   text-align: right;
 }
@@ -13,11 +17,25 @@ button{
   width:100%;
 }
 
-tr{
+table{
   width:100%;
 }
 
-td{
-  width:25%;
+tr{
+  width:150px;
+  display: flex;
+  justify-content:flex-end;
+}
+
+.AC{
+  width:112.5px;
+}
+
+.zello{
+  width:75px;
+}
+
+.small{
+  width:37.5px;
 }
 
